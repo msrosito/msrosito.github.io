@@ -1,6 +1,7 @@
 - 👋 Hi, I’m María Sol Rosito, Ph.D.
 - I'm a **Research Data Scientist**. **Mathematician** and **Physicist**.
 - I'm experienced in **Statistics**, **Machine Learning**, and Astrophysical **Data Analysis**.
+- I'm experienced programming in **Python**, **R**, MATLAB, IDL, Yorick, basic C/C++.
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-sol-rosito-phd-3686104a/), msrosito@gmail.com, msrosito@iafe.uba.ar, msrosito@dm.uba.ar.
 - I'm open to work.
 
