@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
-
 - 👋 Hi, I’m María Sol Rosito, Ph.D.
-- :telescope: I'm a Research Data Scientist. Mathematician and Physicist.
-- :computer: I'm experienced in Statistics, Machine Learning, and Astrophysical Data Analysis.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-sol-rosito-phd-3686104a/), msrosito@gmail.com, msrosito@iafe.uba.ar, msrosito@dm.uba.ar.
-- :muscle: I'm open to work.
+- I'm a **Research Data Scientist**. **Mathematician** and **Physicist**.
+- I'm experienced in **Statistics**, **Machine Learning**, and Astrophysical **Data Analysis**.
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-sol-rosito-phd-3686104a/), msrosito@gmail.com, msrosito@iafe.uba.ar, msrosito@dm.uba.ar.
+- I'm open to work.
 
 ### Publications
 
@@ -17,5 +15,4 @@
 - Rosito, María Sol; 	Formación y evolución de galaxias elı́pticas					2019	Universidad de Buenos Aires
 - Luján, Emmanuel; Soto, Daniela; Rosito, María R; Soba, Alejandro; Guerra, Liliana N; Marshall, Guillermo; Suárez, Cecilia; 	Modelado matemático de un patrón de invasión tumoral a través de ecuaciones de reacción-difusión y fractales DLA (diffusion limited aggregation)	Mecánica Computacional	35	8	387-400	2017	
 - Rosito, MS; Pedrosa, SE; Tissera, PB; Chisari, NE; Domínguez-Tenreiro, R; Dubois, Y; Peirani, S; Devriendt, J; Pichon, C; Slyz, A; 	The role of AGN feedback in the structure, kinematics, and evolution of ETGs in Horizon simulations	Astronomy & Astrophysics	652		A44	2021	EDP Sciences
-
 
