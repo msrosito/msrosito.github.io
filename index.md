@@ -1,37 +1,21 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/msrosito/msrosito.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+- 👋 Hi, I’m María Sol Rosito, Ph.D.
+- :telescope: I'm a Research Data Scientist. Mathematician and Physicist.
+- :computer: I'm experienced in Statistics, Machine Learning, and Astrophysical Data Analysis.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-sol-rosito-phd-3686104a/), msrosito@gmail.com, msrosito@iafe.uba.ar, msrosito@dm.uba.ar.
+- :muscle: I'm open to work.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Publications
 
-### Markdown
+- Rosito, María Sol; Pedrosa, Susana Elizabeth; Tissera, Patricia Beatriz; Avila-Reese, Vladimir; Lacerna, I; Bignone, Lucas Axel; Ibarra-Medel, HJ; Varela, S; 	Field spheroid-dominated galaxies in a Λ-CDM Universe	Astronomy & Astrophysics	614		A85	2018	EDP Sciences
+- Luján, Emmanuel; Rosito, María Sol; Soba, Alejandro; Suárez, Cecilia; 	Libregrowth: a tumor growth code based on reaction–diffusion equations using shared memory	Computer Physics Communications	243		97-105	2019	North-Holland
+- Luján, Emmanuel; Soto, Daniela; Rosito, María S; Soba, Alejandro; Guerra, Liliana N; Calvo, Juan C; Marshall, Guillermo; Suárez, Cecilia; 	Microenvironmental influence on microtumour infiltration patterns: 3D-mathematical modelling supported by in vitro studies	Integrative Biology	10	5	325-334	2018	Oxford University Press
+- Rosito, MS; Pedrosa, SE; Tissera, PB; 	Properties of early-type galaxies in a cosmological framework	Boletin de la Asociacion Argentina de Astronomia La Plata Argentina	58		21-23	2016	
+- Rosito, María Sol; Tissera, PB; Pedrosa, Susana Elizabeth; Rosas-Guevara, Y; 	Assembly of spheroid-dominated galaxies in the EAGLE simulation	Astronomy & Astrophysics	629		A37	2019	EDP Sciences
+- Rosito, María Sol; Tissera, PB; Pedrosa, Susana Elizabeth; Lagos, Claudia DP; 	The mass–size plane of EAGLE galaxies	Astronomy & Astrophysics	629		L3	2019	EDP Sciences
+- Rosito, María Sol; 	Formación y evolución de galaxias elı́pticas					2019	Universidad de Buenos Aires
+- Luján, Emmanuel; Soto, Daniela; Rosito, María R; Soba, Alejandro; Guerra, Liliana N; Marshall, Guillermo; Suárez, Cecilia; 	Modelado matemático de un patrón de invasión tumoral a través de ecuaciones de reacción-difusión y fractales DLA (diffusion limited aggregation)	Mecánica Computacional	35	8	387-400	2017	
+- Rosito, MS; Pedrosa, SE; Tissera, PB; Chisari, NE; Domínguez-Tenreiro, R; Dubois, Y; Peirani, S; Devriendt, J; Pichon, C; Slyz, A; 	The role of AGN feedback in the structure, kinematics, and evolution of ETGs in Horizon simulations	Astronomy & Astrophysics	652		A44	2021	EDP Sciences
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/msrosito/msrosito.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
